@@ -7,12 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%@ include file="navbar.jsp" %>
-greeting! welcome to my project..............
-
-
-
-<%@ include file="footer.jsp" %>
-
+congratulation you are successfully log in.....
 </body>
 </html>
